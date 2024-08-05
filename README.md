@@ -1,5 +1,5 @@
 # 23b3003_SOC 
-- Project Name : General AlphaZero
+- Project Name : General Alpha Zero
 - Project ID : 16 
 - Mentee : Vaibhav Verma
 - Mentor : Aman Moon
